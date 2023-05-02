@@ -11,6 +11,8 @@ scoop bucket add java
 
 scoop install 7zip
 scoop install aimp
+scoop install contig
+scoop install curl
 scoop install deluge
 scoop install dotnet-sdk
 scoop install exiftool
@@ -27,6 +29,7 @@ scoop install maven
 scoop install megatools
 scoop install msys2
 scoop install nano
+scoop install ngrok
 scoop install nodejs
 scoop install obs-studio
 scoop install python
@@ -38,7 +41,9 @@ scoop install shotcut
 scoop install temurin-jdk
 scoop install vcredist-aio
 scoop install vlc
+scoop install vncviewer
 scoop install vscode
+scoop install windows-terminal
 scoop install yt-dlp
 
 python -m pip install pip_search
