@@ -30,6 +30,7 @@ scoop install maven
 scoop install megatools
 scoop install msys2
 scoop install nano
+scoop install netcat
 scoop install ngrok
 scoop install nodejs
 scoop install obs-studio
