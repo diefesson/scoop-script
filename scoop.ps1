@@ -8,6 +8,7 @@ scoop install git
 scoop bucket add extras
 scoop bucket add games
 scoop bucket add java 
+scoop bucket add sysinternals
 
 scoop install 7zip
 scoop install aimp
@@ -43,6 +44,7 @@ scoop install vcredist-aio
 scoop install vlc
 scoop install vncviewer
 scoop install vscode
+scoop install which
 scoop install windows-terminal
 scoop install yt-dlp
 
