@@ -34,6 +34,7 @@ scoop install netcat
 scoop install ngrok
 scoop install nodejs
 scoop install obs-studio
+scoop install pwsh
 scoop install python
 scoop install qemu
 scoop install retroarch
