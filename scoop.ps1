@@ -15,6 +15,7 @@ scoop install aimp
 scoop install contig
 scoop install curl
 scoop install deluge
+scoop install dolphin-beta
 scoop install dotnet-sdk
 scoop install exiftool
 scoop install ffmpeg
@@ -42,7 +43,6 @@ scoop install rhash
 scoop install rustup
 scoop install shotcut
 scoop install temurin-jdk
-scoop install vcredist-aio
 scoop install vlc
 scoop install vncviewer
 scoop install vscode
