@@ -8,6 +8,7 @@ scoop install main/git
 scoop bucket add extras
 scoop bucket add games
 scoop bucket add java 
+scoop bucket add nerd-fonts
 scoop bucket add sysinternals
 
 scoop install extras/aimp
@@ -47,6 +48,7 @@ scoop install main/rustup
 scoop install main/temurin-jdk
 scoop install main/which
 scoop install main/yt-dlp
+scoop install nerd-fonts/cascadiacode-nf-mono
 scoop install sysinternals/contig
 
 python -m pip install pip_search
