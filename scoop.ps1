@@ -26,8 +26,10 @@ scoop install extras/vscode
 scoop install extras/windows-terminal
 scoop install games/dolphin-beta
 scoop install games/retroarch
+scoop install java/temurin-jdk
 scoop install main/7zip
 scoop install main/curl
+scoop install main/diffutils
 scoop install main/dotnet-sdk
 scoop install main/exiftool
 scoop install main/ffmpeg
@@ -45,7 +47,7 @@ scoop install main/pwsh
 scoop install main/python
 scoop install main/rhash
 scoop install main/rustup
-scoop install main/temurin-jdk
+scoop install main/time
 scoop install main/which
 scoop install main/yt-dlp
 scoop install nerd-fonts/cascadiacode-nf-mono
