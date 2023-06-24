@@ -15,6 +15,7 @@ scoop install extras/aimp
 scoop install extras/deluge
 scoop install extras/firefox
 scoop install extras/googlechrome
+scoop install extras/inkscape
 scoop install extras/keepassxc
 scoop install extras/krita
 scoop install extras/obs-studio
@@ -25,6 +26,7 @@ scoop install extras/vncviewer
 scoop install extras/vscode
 scoop install extras/windows-terminal
 scoop install games/dolphin-beta
+scoop install games/mame
 scoop install games/retroarch
 scoop install java/temurin-jdk
 scoop install main/7zip
