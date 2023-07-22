@@ -10,8 +10,8 @@ scoop install main/megatools
 scoop install main/nano
 scoop install main/netcat
 scoop install main/ngrok
-scoop install main/nvm
 scoop install main/pwsh
+scoop install main/rclone
 scoop install main/rhash
 scoop install main/time
 scoop install main/which
