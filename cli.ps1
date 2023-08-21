@@ -5,6 +5,7 @@ scoop install main/exiftool
 scoop install main/ffmpeg
 scoop install main/grep
 scoop install main/imagemagick
+scoop install main/just
 scoop install main/less
 scoop install main/megatools
 scoop install main/nano
