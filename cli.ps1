@@ -11,6 +11,7 @@ scoop install main/megatools
 scoop install main/nano
 scoop install main/netcat
 scoop install main/ngrok
+scoop install main/ntop
 scoop install main/pwsh
 scoop install main/rclone
 scoop install main/rhash
