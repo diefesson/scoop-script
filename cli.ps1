@@ -1,4 +1,5 @@
 scoop install main/7zip
+scoop install main/btop
 scoop install main/curl
 scoop install main/diffutils
 scoop install main/exiftool
@@ -11,7 +12,6 @@ scoop install main/megatools
 scoop install main/nano
 scoop install main/netcat
 scoop install main/ngrok
-scoop install main/btop
 scoop install main/pwsh
 scoop install main/rclone
 scoop install main/rhash
