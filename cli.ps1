@@ -16,6 +16,7 @@ scoop install main/pwsh
 scoop install main/rclone
 scoop install main/rhash
 scoop install main/time
+scoop install main/ttyd
 scoop install main/which
 scoop install main/yt-dlp
 scoop install sysinternals/contig
