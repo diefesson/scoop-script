@@ -15,6 +15,7 @@ scoop install main/ngrok
 scoop install main/pwsh
 scoop install main/rclone
 scoop install main/rhash
+scoop install main/sudo
 scoop install main/time
 scoop install main/ttyd
 scoop install main/which
