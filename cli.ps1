@@ -9,6 +9,7 @@ scoop install main/imagemagick
 scoop install main/jq
 scoop install main/just
 scoop install main/less
+scoop install main/mediainfo
 scoop install main/megatools
 scoop install main/nano
 scoop install main/netcat
