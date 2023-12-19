@@ -1,3 +1,1 @@
-scoop install main/python
-python -m pip install --upgrade pip
-python -m pip install pip_search
+irm 'https://raw.githubusercontent.com/pyenv-win/pyenv-win/master/pyenv-win/install-pyenv-win.ps1' | iex
