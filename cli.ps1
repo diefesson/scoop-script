@@ -21,3 +21,4 @@ scoop install main/ttyd
 scoop install main/which
 scoop install main/yt-dlp
 scoop install sysinternals/contig
+scoop install nirsoft/runasdate
