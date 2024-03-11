@@ -3,6 +3,7 @@ scoop install main/btop
 scoop install main/diffutils
 scoop install main/exiftool
 scoop install main/ffmpeg
+scoop install main/gsudo
 scoop install main/grep
 scoop install main/imagemagick
 scoop install main/jq
@@ -16,7 +17,6 @@ scoop install main/pwsh
 scoop install main/restic
 scoop install main/rclone
 scoop install main/rhash
-scoop install main/sudo
 scoop install main/time
 scoop install main/ttyd
 scoop install main/which
