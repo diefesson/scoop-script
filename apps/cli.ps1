@@ -1,4 +1,5 @@
 scoop install main/7zip
+scoop install main/aria2
 scoop install main/btop
 scoop install main/diffutils
 scoop install main/exiftool
