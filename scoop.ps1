@@ -10,6 +10,7 @@ scoop bucket add extras
 scoop bucket add games
 scoop bucket add java 
 scoop bucket add nerd-fonts
-scoop bucket add sysinternals
 scoop bucket add nirsoft
 scoop bucket add nonportable
+scoop bucket add sysinternals
+scoop bucket add versions
