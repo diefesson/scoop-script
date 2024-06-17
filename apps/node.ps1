@@ -1,2 +1,3 @@
 scoop install main/nvm
-nvm install node
+nvm install latest
+nvm use latest
