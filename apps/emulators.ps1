@@ -1,9 +1,8 @@
 scoop install extras/retroarch
-scoop install games/dolphin-beta
+scoop install games/dolphin
 scoop install games/mame
 scoop install games/pcsx2-dev
 scoop install games/rmg
-scoop install games/ryujinx
 scoop install games/sudachi
 scoop install versions/ruffle-nightly
 
