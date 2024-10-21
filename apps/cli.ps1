@@ -3,9 +3,10 @@ scoop install main/aria2
 scoop install main/btop
 scoop install main/diffutils
 scoop install main/exiftool
+scoop install main/fastfetch
 scoop install main/ffmpeg
-scoop install main/gsudo
 scoop install main/grep
+scoop install main/gsudo
 scoop install main/imagemagick
 scoop install main/jq
 scoop install main/less
@@ -15,12 +16,12 @@ scoop install main/nano
 scoop install main/netcat
 scoop install main/ngrok
 scoop install main/pwsh
-scoop install main/restic
 scoop install main/rclone
+scoop install main/restic
 scoop install main/rhash
 scoop install main/time
 scoop install main/ttyd
 scoop install main/which
 scoop install main/yt-dlp
-scoop install sysinternals/contig
 scoop install nirsoft/runasdate
+scoop install sysinternals/contig
