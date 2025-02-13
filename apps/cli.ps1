@@ -1,3 +1,4 @@
+scoop install extras/age
 scoop install main/7zip
 scoop install main/aria2
 scoop install main/btop
@@ -12,6 +13,7 @@ scoop install main/jq
 scoop install main/less
 scoop install main/mediainfo
 scoop install main/megatools
+scoop install main/minisign
 scoop install main/nano
 scoop install main/netcat
 scoop install main/ngrok
@@ -19,6 +21,7 @@ scoop install main/pwsh
 scoop install main/rclone
 scoop install main/restic
 scoop install main/rhash
+scoop install main/task
 scoop install main/time
 scoop install main/ttyd
 scoop install main/which
