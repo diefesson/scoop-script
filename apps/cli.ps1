@@ -6,6 +6,7 @@ scoop install main/diffutils
 scoop install main/exiftool
 scoop install main/fastfetch
 scoop install main/ffmpeg
+scoop install main/gallery-dl
 scoop install main/grep
 scoop install main/gsudo
 scoop install main/imagemagick
