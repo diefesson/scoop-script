@@ -1,6 +1,8 @@
 scoop install extras/retroarch
 scoop install games/dolphin
 scoop install games/mame
+scoop install games/melonds
+scoop install games/mgba
 scoop install games/pcsx2
 scoop install games/ppsspp
 scoop install games/rmg
