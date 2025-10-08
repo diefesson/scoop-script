@@ -7,6 +7,7 @@ scoop install main/dnslookup
 scoop install main/exiftool
 scoop install main/fastfetch
 scoop install main/ffmpeg
+scoop install main/frp
 scoop install main/gallery-dl
 scoop install main/grep
 scoop install main/gsudo
