@@ -32,3 +32,4 @@ scoop install main/which
 scoop install main/yt-dlp
 scoop install nirsoft/runasdate
 scoop install sysinternals/contig
+scoop install sysinternals/handle
