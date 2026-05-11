@@ -21,7 +21,6 @@ scoop install main/nano
 scoop install main/netcat
 scoop install main/ngrok
 scoop install main/pwsh
-scoop install main/rathole
 scoop install main/rclone
 scoop install main/restic
 scoop install main/rhash
