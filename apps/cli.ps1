@@ -4,6 +4,7 @@ scoop install main/aria2
 scoop install main/btop
 scoop install main/diffutils
 scoop install main/dnslookup
+scoop install main/dufs
 scoop install main/exiftool
 scoop install main/fastfetch
 scoop install main/ffmpeg
