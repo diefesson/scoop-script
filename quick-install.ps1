@@ -6,6 +6,5 @@ scoop update
 ./apps/art.ps1
 ./apps/basic.ps1
 ./apps/cli.ps1
-./apps/emulators.ps1
 ./apps/players.ps1
-./apps/python.ps1
+./apps/powertools.ps1

@@ -11,7 +11,6 @@ scoop install main/ffmpeg
 scoop install main/frp
 scoop install main/gallery-dl
 scoop install main/grep
-scoop install main/gsudo
 scoop install main/imagemagick
 scoop install main/jq
 scoop install main/less
@@ -20,7 +19,6 @@ scoop install main/megatools
 scoop install main/minisign
 scoop install main/nano
 scoop install main/netcat
-scoop install main/ngrok
 scoop install main/psmux
 scoop install main/pwsh
 scoop install main/rclone
@@ -31,6 +29,3 @@ scoop install main/time
 scoop install main/ttyd
 scoop install main/which
 scoop install main/yt-dlp
-scoop install nirsoft/runasdate
-scoop install sysinternals/contig
-scoop install sysinternals/handle

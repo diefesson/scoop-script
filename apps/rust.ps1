@@ -1,2 +1,1 @@
 scoop install main/rustup
-
