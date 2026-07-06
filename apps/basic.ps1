@@ -5,5 +5,6 @@ scoop install extras/localsend
 scoop install extras/okular
 scoop install extras/qbittorrent
 scoop install extras/rufus
+scoop install extras/sharex
 scoop install extras/ungoogled-chromium
 scoop install extras/vscode
