@@ -30,3 +30,4 @@ scoop install main/time
 scoop install main/ttyd
 scoop install main/which
 scoop install main/yt-dlp
+scoop install main/zellij
