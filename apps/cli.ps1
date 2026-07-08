@@ -1,4 +1,5 @@
 scoop install extras/age
+scoop install extras/lazygit
 scoop install main/7zip
 scoop install main/aria2
 scoop install main/btop
