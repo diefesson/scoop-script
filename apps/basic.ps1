@@ -2,9 +2,9 @@ scoop install extras/firefox
 scoop install extras/fluent-reader
 scoop install extras/keepassxc
 scoop install extras/localsend
-scoop install extras/okular
 scoop install extras/qbittorrent
 scoop install extras/rufus
 scoop install extras/sharex
+scoop install extras/sumatrapdf
 scoop install extras/ungoogled-chromium
 scoop install extras/vscode
