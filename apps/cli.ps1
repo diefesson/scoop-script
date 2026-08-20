@@ -10,10 +10,12 @@ scoop install main/dufs
 scoop install main/exiftool
 scoop install main/fastfetch
 scoop install main/ffmpeg
+scoop install main/fq
 scoop install main/frp
 scoop install main/gallery-dl
 scoop install main/grep
 scoop install main/imagemagick
+scoop install main/jnv
 scoop install main/jq
 scoop install main/less
 scoop install main/mediainfo
@@ -26,6 +28,7 @@ scoop install main/pwsh
 scoop install main/rclone
 scoop install main/restic
 scoop install main/rhash
+scoop install main/sq
 scoop install main/task
 scoop install main/time
 scoop install main/ttyd
