@@ -15,6 +15,7 @@ scoop install main/frp
 scoop install main/gallery-dl
 scoop install main/grep
 scoop install main/imagemagick
+scoop install main/jaq
 scoop install main/jnv
 scoop install main/jq
 scoop install main/less
