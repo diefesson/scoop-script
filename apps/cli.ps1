@@ -23,7 +23,7 @@ scoop install main/mediainfo
 scoop install main/megatools
 scoop install main/minisign
 scoop install main/nano
-scoop install main/netcat
+scoop install main/nmap
 scoop install main/psmux
 scoop install main/pwsh
 scoop install main/rclone
