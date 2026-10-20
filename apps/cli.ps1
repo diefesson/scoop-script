@@ -31,6 +31,7 @@ scoop install main/restic
 scoop install main/rhash
 scoop install main/sq
 scoop install main/task
+scoop install main/termscp
 scoop install main/time
 scoop install main/ttyd
 scoop install main/which
